@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @This-is-Baljot-Singh
 - 👀 I’m interested in FrontEnd Development
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning WebVR
 - 💞️ I’m looking to collaborate on open project
 - 📫 How to reach me baljots1000@gmail.com
 
