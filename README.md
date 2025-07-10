@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Baljot Singh</h1>
-<h3 align="center">A passionate frontend developer and Artificial Engineer from India.</h3>
+<h3 align="center">A Passionate Frontend Developer and Artificial Engineer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=this-is-baljot-singh&label=Profile%20views&color=0e75b6&style=flat" alt="this-is-baljot-singh" /> </p>
 
