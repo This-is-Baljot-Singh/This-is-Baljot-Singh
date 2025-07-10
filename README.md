@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=this-is-baljot-singh&label=Profile%20views&color=0e75b6&style=flat" alt="this-is-baljot-singh" /> </p>
 
 # 💫 About Me:
-👨‍💻 All of my projects are available at [My Portfolio](https://baljot-singh-portfolio.vercel.app/)<br><br>📫 How to reach me baljots1000@gmail.com<br><br>📄 Know about my experiences from (My Resume)[https://drive.google.com/file/d/1Tk9fq9RSaPVLYrbDl3bUfsynDrEwOs-d/view?usp=sharing]<br><br>⚡ Fun fact I'm only a human, after all.
+👨‍💻 All of my projects are available at [My Portfolio](https://baljot-singh-portfolio.vercel.app/)<br><br>📫 How to reach me baljots1000@gmail.com<br><br>📄 Know about my experiences from [My Resume](https://drive.google.com/file/d/1Tk9fq9RSaPVLYrbDl3bUfsynDrEwOs-d/view?usp=sharing)<br><br>⚡ Fun fact I'm only a human, after all.
 
 
 # 💻 Tech Stack:
