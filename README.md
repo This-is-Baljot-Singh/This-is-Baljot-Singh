@@ -70,9 +70,3 @@ I build end-to-end software applications, high-throughput backend systems, and a
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/This-is-Baljot-Singh/This-is-Baljot-Singh/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=This-is-Baljot-Singh&theme=dark&hide_border=true&background=0d1117&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6" width="48%" alt="GitHub Streak" />
-</div>
