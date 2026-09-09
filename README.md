@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-Windows_11-%230078D4?style=flat-square&logo=windows11&logoColor=white" alt="Windows 11" />
+  <img src="https://img.shields.io/badge/OS-Windows_11-%230078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows 11" />
   <img src="https://img.shields.io/badge/OS-Arch_Linux-%231793d1?style=flat-square&logo=arch-linux&logoColor=white" alt="Arch Linux" />
   <img src="https://img.shields.io/badge/WM-Hyprland-%2300b4b6?style=flat-square&logo=hyprland&logoColor=white" alt="Hyprland" />
   <img src="https://img.shields.io/badge/Terminal-Kitty-%233E4A59?style=flat-square&logo=gnometerminal&logoColor=white" alt="Kitty Terminal" />
@@ -74,6 +74,6 @@ I build end-to-end software applications, high-throughput backend systems, and a
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=This-is-Baljot-Singh&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=This-is-Baljot-Singh&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=This-is-Baljot-Singh&theme=dark&hide_border=true&background=0d1117&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=This-is-Baljot-Singh&theme=dark&hide_border=true&include_all_commits=true&bg_color=0d1117&show_icons=true" width="48%" alt="GitHub Stats" />
 </div>
