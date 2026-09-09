@@ -75,5 +75,4 @@ I build end-to-end software applications, high-throughput backend systems, and a
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=This-is-Baljot-Singh&theme=dark&hide_border=true&background=0d1117&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6" width="48%" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=This-is-Baljot-Singh&theme=dark&hide_border=true&include_all_commits=true&bg_color=0d1117&show_icons=true" width="48%" alt="GitHub Stats" />
 </div>
