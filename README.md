@@ -1,23 +1,79 @@
-<h1 align="center">Hi 👋, I'm Baljot Singh</h1>
-<h3 align="center">A Passionate Web Developer and Artificial Engineer from India.</h3>
+<!-- Dynamic Typing Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Developing+Scalable+Software+Solutions;Building+Autonomous+AI+Agents;Architecting+Robust+Backends;Optimizing+Machine+Learning+Pipelines" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=this-is-baljot-singh&label=Profile%20views&color=0e75b6&style=flat" alt="this-is-baljot-singh" /> </p>
+<p align="center">
+  <b>Software Developer & AI/ML Engineer</b> <br>
+  <a href="https://baljot-singh-portfolio.vercel.app/">Portfolio</a> • 
+  <a href="mailto:baljots1000@gmail.com">Email</a> • 
+  <a href="https://linkedin.com/in/baljot-singh-dev">LinkedIn</a>
+</p>
 
-# 💫 About Me:
-👨‍💻 All of my projects are available at [My Portfolio](https://baljot-singh-portfolio.vercel.app/)<br><br>📫 How to reach me baljots1000@gmail.com<br><br>📄 Know about my experiences from [My Resume](https://drive.google.com/file/d/1Tk9fq9RSaPVLYrbDl3bUfsynDrEwOs-d/view?usp=sharing)<br><br>⚡ Fun fact I'm only a human, after all.
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Windows_11-%230078D4?style=flat-square&logo=windows11&logoColor=white" alt="Windows 11" />
+  <img src="https://img.shields.io/badge/OS-Arch_Linux-%231793d1?style=flat-square&logo=arch-linux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/WM-Hyprland-%2300b4b6?style=flat-square&logo=hyprland&logoColor=white" alt="Hyprland" />
+  <img src="https://img.shields.io/badge/Terminal-Kitty-%233E4A59?style=flat-square&logo=gnometerminal&logoColor=white" alt="Kitty Terminal" />
+  <img src="https://img.shields.io/badge/Shell-Bash-%234EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
+</p>
 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats: 
-![](https://github-readme-stats.vercel.app/api?username=This-is-Baljot-Singh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=This-is-Baljot-Singh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=This-is-Baljot-Singh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### ⚙️ Engineering Focus
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+I build end-to-end software applications, high-throughput backend systems, and autonomous AI pipelines. My work spans four engineering internships shipping production systems on FastAPI, Node.js, PostgreSQL, and AWS. 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=This-is-Baljot-Singh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+*   **Software Development:** Delivering scalable web applications with complex schema design, composite indexing, and asynchronous I/O to cut API latency and absorb high-traffic loads.
+*   **AI/ML Engineering:** Currently building production LangChain agent pipelines. Experienced in orchestrating workflows using LangGraph, n8n, and local LLMs (Ollama) for real-time inference and intelligent automation.
+*   **Security & Research:** Co-authored a Springer LNCS publication on adaptive containerized honeypots (PREMI 2025, IIT Delhi) and hold a registered industrial design patent (No. 450738-001) for an AI-powered network security appliance.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+### 🚀 Core Architectural Domains
+
+| Domain Focus | Core Technologies | Architectural Capabilities |
+| :--- | :--- | :--- |
+| **Full-Stack Software Development** | `React.js` `Node.js` `FastAPI` `PostgreSQL` | Developing responsive user interfaces, RESTful APIs, and optimized database schemas for complete, end-to-end web applications. |
+| **Autonomous AI & Agents** | `LangChain` `LangGraph` `Ollama` `n8n` | Designing stateful, multi-agent orchestrators capable of complex reasoning pipelines and autonomous workflow routing. |
+| **Applied ML & Data Engineering** | `XGBoost` `PyTorch` `TimescaleDB` `Redis` | Deploying explainable AI models and building concurrent data ingestion pipelines to process real-time analytics. |
+| **Systems, DevOps & Security** | `Python` `Docker` `AWS` `Linux` | Containerizing applications, managing cloud environments, and architecting zero-trust security and authenticated encryption protocols. |
+
+---
+
+### 💻 Technical Arsenal
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/LangChain-%2332CD32.svg?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-%23FF6C37.svg?style=for-the-badge&logo=n8n&logoColor=white" />
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,js,nodejs,express,fastapi,react,nextjs,postgres,mysql,mongodb,aws,docker,linux,git,bash,blender,figma&theme=dark&perline=9" />
+  </a>
+</div>
+
+<br>
+
+> **Core Competencies:** Data Structures & Algorithms, OOP, Full-Stack Integration, System Design, Real-time ML Inference, Schema Normalization.
+
+---
+
+### 📊 Development Activity
+
+<div align="center">
+  <!-- Looping Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/This-is-Baljot-Singh/This-is-Baljot-Singh/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/This-is-Baljot-Singh/This-is-Baljot-Singh/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/This-is-Baljot-Singh/This-is-Baljot-Singh/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=This-is-Baljot-Singh&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=This-is-Baljot-Singh&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117" width="48%" />
+</div>
